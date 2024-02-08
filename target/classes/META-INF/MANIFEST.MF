@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Built-By: willi
+Build-Jdk: 17.0.2
+Class-Path: dependency-jars/spark-core-2.0.0.jar dependency-jars/slf4j-a
+ pi-1.7.2.jar dependency-jars/jetty-server-9.0.2.v20130417.jar dependenc
+ y-jars/javax.servlet-3.0.0.v201112011016.jar dependency-jars/jetty-http
+ -9.0.2.v20130417.jar dependency-jars/jetty-util-9.0.2.v20130417.jar dep
+ endency-jars/jetty-io-9.0.2.v20130417.jar dependency-jars/jetty-webapp-
+ 9.0.2.v20130417.jar dependency-jars/jetty-xml-9.0.2.v20130417.jar depen
+ dency-jars/jetty-servlet-9.0.2.v20130417.jar dependency-jars/jetty-secu
+ rity-9.0.2.v20130417.jar
+Main-Class: rinhabackend2024.Hello
+Created-By: Maven Integration for Eclipse
+
